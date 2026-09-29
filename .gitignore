@@ -1,2 +1,4 @@
 # Jellyfin runtime data
 compose/jellyfin/config/
+# Homepage runtime logs
+compose/homepage/config/logs
