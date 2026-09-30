@@ -2,3 +2,7 @@
 compose/jellyfin/config/
 # Homepage runtime logs
 compose/homepage/config/logs
+# Pi-hole Secrets
+compose/pihole/.env
+# Pi-hole Runtime Data
+compose/pihole/etc-pihole/
